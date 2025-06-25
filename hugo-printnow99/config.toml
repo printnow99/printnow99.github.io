@@ -1,0 +1,5 @@
+
+baseURL = "https://printnow99.github.io/"
+languageCode = "id"
+title = "Blog PrintNow"
+theme = "ananke"
